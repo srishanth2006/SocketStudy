@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+## NAME: KAMALESH S
+## REG NO: 212223040083
 
 ## Aim: 
 To perform a study on Socket Programming
